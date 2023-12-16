@@ -20,8 +20,6 @@ print("Select the operation: add/sub/mul/div")
 operation = input("Enter the operation: ")
 if(operation!="add"and"sub"and"div"and"mul"):
     print("invalid operation")
-
-
 if operation == "add":
     print(add(a,b))
 elif operation == "sub":
