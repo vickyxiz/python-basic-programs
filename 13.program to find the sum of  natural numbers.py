@@ -6,3 +6,4 @@ else:
     for i in range(1,a+1):
         sum_of+=i
     print("The total sum is:",sum_of)
+
